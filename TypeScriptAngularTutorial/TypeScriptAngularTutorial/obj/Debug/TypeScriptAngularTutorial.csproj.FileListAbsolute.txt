@@ -1,0 +1,6 @@
+E:\demo\TypeScriptAngularTutorial\TypeScriptAngularTutorial\bin\TypeScriptAngularTutorial.dll.config
+E:\demo\TypeScriptAngularTutorial\TypeScriptAngularTutorial\bin\TypeScriptAngularTutorial.dll
+E:\demo\TypeScriptAngularTutorial\TypeScriptAngularTutorial\bin\TypeScriptAngularTutorial.pdb
+E:\demo\TypeScriptAngularTutorial\TypeScriptAngularTutorial\obj\Debug\TypeScriptAngularTutorial.csprojResolveAssemblyReference.cache
+E:\demo\TypeScriptAngularTutorial\TypeScriptAngularTutorial\obj\Debug\TypeScriptAngularTutorial.dll
+E:\demo\TypeScriptAngularTutorial\TypeScriptAngularTutorial\obj\Debug\TypeScriptAngularTutorial.pdb
